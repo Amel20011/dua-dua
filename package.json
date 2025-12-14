@@ -1,0 +1,11 @@
+{
+  "name": "liviacns-bot",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:kiuur/baileys",
+    "pino": "^8.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
